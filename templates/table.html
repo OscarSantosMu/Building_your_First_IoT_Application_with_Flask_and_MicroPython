@@ -1,0 +1,21 @@
+{% extends 'index.html' %}
+
+{% block content %}
+<table class="table table-striped">
+    <thead>
+    <tr>
+        {% for col in coltitles%}
+            <th>{{ col }}</th>
+        {% endfor %}
+    </tr>
+    </thead>
+    {% for row in data_log %}
+    <tr>
+        {% for cell in row %}
+            <td>{{ cell }}</td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>
+
+{% endblock %}
