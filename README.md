@@ -4,7 +4,7 @@
 
 Main features of this repository are a flask server and micropython scripts to send data.
 
-![](static/pyconlogo.png)
+![](static/pyconlogo.jpg)
 
 ## Installation
 
@@ -38,7 +38,7 @@ Packages
 
 ## Follow me at
 
-Twitter: [@OscarSantosMu](https://twitter.com/OscarSantosMu)
+Twitter: [@OscarSantosMu](https://twitter.com/OscarSantosMu)  
 Instagram: [oscarsantosmu](https://instagram.com/oscarsantosmu)
 
 
