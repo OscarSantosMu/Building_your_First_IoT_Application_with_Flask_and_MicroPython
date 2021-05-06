@@ -2,9 +2,9 @@
 
 > Workshop at Pycon Colombia 2021
 
-Main features of this repository are a flask server and micropython scripts to send data.
+Main features of this repository are a flask server and micropython scripts to send data over http requests.
 
-![](static/pyconlogo.jpg)
+![](static/demo.JPG)
 
 ## Installation
 
@@ -21,20 +21,31 @@ You can check more information about the boards that can run Micropython and how
 
 ## Development setup
 
-Packages
+### Packages
 
 *Python*
 - Flask
 
 *MicroPython*
+- machine
 - network
 - urequests
 - time
 
+### IDE
+
+- Visual Studio Code
+
+*Extension*
+- PyMakr Console
+
+### Tools
+- Ampy
+
 ## Release History
 
-* 0.1.0
-    * Under development.
+* 1.0.0
+    * Working well.
 
 ## Follow me at
 
