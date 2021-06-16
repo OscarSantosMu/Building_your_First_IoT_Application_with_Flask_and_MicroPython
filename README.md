@@ -25,6 +25,7 @@ You can check more information about the boards that can run Micropython and how
 
 *Python*
 - Flask
+- Flask-sqlalchemy
 
 *MicroPython*
 - machine
@@ -44,8 +45,8 @@ You can check more information about the boards that can run Micropython and how
 
 ## Release History
 
-* 1.0.0
-    * Working well.
+* 1.1.0
+    * New database feature.
 
 ## Follow me at
 
